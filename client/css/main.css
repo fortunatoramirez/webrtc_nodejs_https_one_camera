@@ -1,0 +1,15 @@
+body {
+  font-family: sans-serif;
+}
+
+#remoteVideo {
+  max-width: 100%;
+  width: auto;
+
+}
+
+#localVideo {
+  max-width: 100%;
+  width: 120px;
+
+}
